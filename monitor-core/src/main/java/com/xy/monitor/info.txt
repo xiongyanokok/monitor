@@ -1,0 +1,12 @@
+<dependency>
+			<groupId>com.hexun</groupId>
+			<artifactId>monitor</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
+	<!-- <context:component-scan base-package="com.hexun.monitor" />
+	
+	<bean id="registryCenter" class="com.hexun.monitor.zookeeper.ZookeeperRegistryCenter">
+		<property name="serverLists" value="127.0.0.1:2181"/>
+		<property name="namespace" value="xy/monitor"/>
+	</bean> -->
