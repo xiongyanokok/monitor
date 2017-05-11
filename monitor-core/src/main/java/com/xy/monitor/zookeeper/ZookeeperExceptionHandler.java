@@ -1,4 +1,4 @@
-package com.hexun.monitor.zookeeper;
+package com.xy.monitor.zookeeper;
 
 import org.apache.zookeeper.KeeperException.ConnectionLossException;
 import org.apache.zookeeper.KeeperException.NoNodeException;

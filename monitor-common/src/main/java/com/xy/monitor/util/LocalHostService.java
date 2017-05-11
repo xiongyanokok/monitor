@@ -1,4 +1,4 @@
-package com.hexun.monitor.util;
+package com.xy.monitor.util;
 
 import java.net.InetAddress;
 import java.net.NetworkInterface;

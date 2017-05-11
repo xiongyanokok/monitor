@@ -1,4 +1,4 @@
-package com.hexun.monitor.task;
+package com.xy.monitor.task;
 
 import java.util.Date;
 import java.util.HashMap;
@@ -11,9 +11,9 @@ import org.hyperic.sigar.Mem;
 import org.hyperic.sigar.Sigar;
 
 import com.alibaba.fastjson.JSONObject;
-import com.hexun.monitor.sigar.SigarUtils;
-import com.hexun.monitor.util.LocalHostService;
-import com.hexun.monitor.zookeeper.ZookeeperRegistryCenter;
+import com.xy.monitor.sigar.SigarUtils;
+import com.xy.monitor.util.LocalHostService;
+import com.xy.monitor.zookeeper.ZookeeperRegistryCenter;
 
 /**
  * 性能监控任务

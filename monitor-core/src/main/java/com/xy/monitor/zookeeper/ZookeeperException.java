@@ -1,4 +1,4 @@
-package com.hexun.monitor.zookeeper;
+package com.xy.monitor.zookeeper;
 
 /**
  * 注册中心异常.

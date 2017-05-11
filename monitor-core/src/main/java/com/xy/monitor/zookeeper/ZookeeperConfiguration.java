@@ -1,4 +1,4 @@
-package com.hexun.monitor.zookeeper;
+package com.xy.monitor.zookeeper;
 
 /**
  * zookeeper注册中心配置.

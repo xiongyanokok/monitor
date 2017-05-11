@@ -1,4 +1,4 @@
-package com.hexun.monitor.exception;
+package com.xy.monitor.exception;
 
 /**
  * 监控异常
